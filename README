@@ -1,0 +1,4 @@
+This utility library is used for the leafChat IRC client.
+
+I don't really recommend its use for other projects. Most of the features
+included here have actually been added to the core Java platform anyway.
